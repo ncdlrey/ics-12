@@ -6,14 +6,17 @@
  * @author Nicole Delos Reyes
  * @date 09/29/22
  * 
- * DONE
- * 
  */
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class HW_JavaReview4_Q4 {
+	
+	/**
+	 * @param userNums: given integers between 1 and 50
+	 * @return the occurrences of each number given
+	 */
 
 	public static void main(String[] args) {
 		
